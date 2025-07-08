@@ -1,0 +1,21 @@
+# Ignore data folders
+bitter/Main copy/data/
+Bitter_Sweet/data/
+BitterSweet/data/
+sweet/data/
+
+bitter/Main copy/output/
+BitterSweet/output/
+sweet/output/
+
+
+# Ignore specific test files and CSVs
+bitter/Main copy/test.csv
+BitterSweet/test.csv
+sweet/descriptors.csv
+sweet/test.csv
+sweet/test2.csv
+sweet/test3.csv
+
+# Ignore zip files
+bitter.zip
